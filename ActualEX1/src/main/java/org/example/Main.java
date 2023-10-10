@@ -5,9 +5,9 @@ public class Main {
         //System.out.println("Hello Maven");
         Calc math = new Calc();
 
-        System.out.println(math.add(5, 5));
-        System.out.println(math.sub(5, 5));
-        System.out.println(math.mult(5, 5));
-        System.out.println(math.divi(5, 5));
+        System.out.println(math.add(5, 10));
+        System.out.println(math.sub(10, 5));
+        System.out.println(math.mult(4, 4));
+        System.out.println(math.divi(10, 5));
     }
 }
